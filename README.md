@@ -5,6 +5,7 @@
 1.2 - Executei o comando -> npm install cypress
 1.3 - Executei o comando -> npm install --save-dev cypress cypress-cucumber-preprocessor
 1.4 - Executei o comando -> npx cypress open
+1.5 - Fui criando e preenchendo as pastas
 
 2 - Abriu a tela do Cypress
 2.1 - cliquei em login feature
